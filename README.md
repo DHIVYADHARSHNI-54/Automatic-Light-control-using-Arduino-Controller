@@ -63,10 +63,13 @@ LDR Features of LDR are as follows:
 
 
 ## PROGRAM:
+<img width="1919" height="999" alt="code ebd exp2" src="https://github.com/user-attachments/assets/ffaa2361-cddd-43c1-af29-7772f011a808" />
 
 ## CIRCUIT DIAGRAM:
+<img width="1919" height="1058" alt="circuit ebd exp2" src="https://github.com/user-attachments/assets/fd938636-95a6-49cc-802f-68636a2b3a45" />
 
 ## OUTPUT:
+<img width="1916" height="1079" alt="output 2 ebd" src="https://github.com/user-attachments/assets/be769b69-b480-4931-82d3-b972d48d21bc" />
 
 ## RESULT:
 Thus the automatic light controller was designed and simulated using LDR and Arduino UNO controller.
